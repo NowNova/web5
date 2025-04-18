@@ -64,7 +64,7 @@ foreach ($availableCategories as $category)
         <label for="text">Текст объявления:</label>
         
 
-        <textarea name="textarea" cols="100" rows="10" required>Опишите ваш товар...</textarea>
+        <textarea name="textarea" cols="100" rows="10" required></textarea>
         
 
         <button>Добавить объявление</button>
